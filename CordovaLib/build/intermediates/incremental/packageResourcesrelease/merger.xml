@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/intel/Documents/WHATTHETRUCKS2/CordovaLib/src/main/res"/><source path="/Users/intel/Documents/WHATTHETRUCKS2/CordovaLib/build/generated/res/rs/release"/><source path="/Users/intel/Documents/WHATTHETRUCKS2/CordovaLib/build/generated/res/resValues/release"/></dataSet><dataSet config="release"><source path="/Users/intel/Documents/WHATTHETRUCKS2/CordovaLib/src/release/res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e65060ef2ec6ec98365250d2119d7968626fd3f">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/classes-d86ec57ce232864921ec625d404f1a74a13144fe.jar" />
+    </item>
+    <item
+        jar="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b068965b1347f34c1918a6d606358e7b357a1229">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/classes-45e15f40a254cd18d400213545c8341ab8927628.jar" />
+    </item>
+    <item
+        jar="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6fc144eac80d908c45c4308e9aaa55622cae086f">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/classes-284ce62468d8313644b14dc827690bb427cb78dd.jar" />
+    </item>
+    <item
+        jar="/Users/intel/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-a3d480cca88a795594db0a042273d9b5839be9b7.jar" />
+    </item>
+    <item
+        jar="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3c598243d9616e3c6132e054d43f50ff8f8dee63">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/classes-204f4987a0e480eb604abede684b474b60eac3c3.jar" />
+    </item>
+    <item
+        jar="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="074b93197194a0225023845f90cceba9518be74c">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/classes-a4c4fd686759afad1e8838a4a6ac03e000191260.jar" />
+    </item>
+    <item
+        jar="/Users/intel/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/gson-2.3-6eb5a1c5a7161f1d43eb3e91c6aa05f4ab5d91ba.jar" />
+    </item>
+    <item
+        jar="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/0.9.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="de76a31d4a478cd8fcd7e30ec63261c18ba4f5a5">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/classes-d5a704d1c9bb63f6cccca9be9206fec25c33d2bb.jar" />
+    </item>
+    <item
+        jar="/Users/intel/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/intel/Downloads/WHATTHETRUCKS2/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0-fffb8ccf63af5c55559a7c1bd19b92c1d4c51d87.jar" />
+    </item>
+
+</items>
